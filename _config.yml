@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My website
+title: thuynguyenle
 
 # Your name to show in the footer
-author: Some Person
+author: Nguyen Le
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # About Me: "aboutme"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "thuynguyenle.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -138,12 +138,12 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#fbf1f6"
+navbar-text-col: "#4d6e92"
+navbar-border-col: "#fbf1f6"
+footer-col: "#fbf1f6"
+footer-text-col: "#4d6e92"
+footer-link-col: "#4d6e92"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
